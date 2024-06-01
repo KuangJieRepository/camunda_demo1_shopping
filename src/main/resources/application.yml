@@ -1,1 +1,7 @@
-spring.application.name=camunda_demo1
+spring:
+  application:
+    name: camunda_demo1
+
+server:
+  port: 8081
+
